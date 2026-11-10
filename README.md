@@ -1,0 +1,1 @@
+ADL_Weak_Spots
